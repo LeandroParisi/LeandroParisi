@@ -1,5 +1,10 @@
 # Hi, I am *willing to collaborate as a team player building better code.*
 
+<p backgroundimage="https://www.google.com/logos/doodles/2020/celebrating-anton-wilhelm-amo-6753651837108698-s.png">
+  teste
+</p>
+<br />
+
 <p align="center">
   <a href="https://www.linkedin.com/in/leandro-parisi/" target="_blank" >
     <img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
