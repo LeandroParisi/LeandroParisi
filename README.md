@@ -1,9 +1,10 @@
-# Hi, I am *willing to collaborate as a team player building better code.*
+<h2>Leandro parisi</h2>
+<h3>Junior Front-end web developer</h3>
 
-<p backgroundimage="https://www.google.com/logos/doodles/2020/celebrating-anton-wilhelm-amo-6753651837108698-s.png">
-  teste
-</p>
 <br />
+<p align="center">
+  I believe technology and mailny programming are great tools to create a better world not just for me but also for the next generations!! :rocket:
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/leandro-parisi/" target="_blank" >
