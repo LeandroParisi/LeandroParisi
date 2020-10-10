@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/leandro-parisi/" target="_blank" >
-    <img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px" margin="10px">
+    <img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
   </a>
   <a href="https://github.com/leandroparisi" target="_blank" >
     <img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="48px" height="48px">
@@ -12,6 +12,11 @@
   </a> 
 </p>
 
+<br />
+<br />
+<hr />
+<br />
+<br />
 
 
 ![email-icon][] Email me to [lepcbelisario@gmail.com][] ![linkedin-icon][] Connect in [Linkedin][]
