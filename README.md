@@ -1,11 +1,12 @@
-<h2>Leandro parisi</h2>
-<h3>Junior Front-end web developer</h3>
+<h2 align="center">Leandro parisi</h2>
+<h3 align="center">Junior Front-end web developer</h3>
 
 <br />
 <p align="center">
   I believe technology and mailny programming are great tools to create a better world not just for me but also for the next generations!! :rocket:
 </p>
 
+<h4 align="center">Connect with me!</h4>
 <p align="center">
   <a href="https://www.linkedin.com/in/leandro-parisi/" target="_blank" >
     <img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
