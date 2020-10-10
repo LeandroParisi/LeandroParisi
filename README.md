@@ -1,8 +1,8 @@
 # Hi, I am *willing to collaborate as a team player building better code.*
 
-| My favorite tools |![email-icon][] Email me to [israellaguan@gmail.com][] ![linkedin-icon][] Connect in [Linkedin][]
-| :---: | :---:
-| ![badge-react][] ![badge-css] ![badge-nodejs][] ![badge-postgres] | ![banner][]
+![email-icon][] Email me to [lepcbelisario@gmail.com][] ![linkedin-icon][] Connect in [Linkedin][]
+| :---: |
+![banner][]
 
 ![stats][]
 Stats by [tipsy/profile-summary-for-github][]
@@ -11,7 +11,7 @@ Stats by [tipsy/profile-summary-for-github][]
 
 [pic]: https://avatars2.githubusercontent.com/u/36519478?s=460&v=4
 [email-icon]: https://img.icons8.com/color/48/000000/message-squared.png
-[israellaguan@gmail.com]: mailto:israellaguan@gmail.com
+[lepcbelisario@gmail.com]: mailto:lepcbelisario@gmail.com
 [linkedin-icon]: https://img.icons8.com/color/48/000000/linkedin.png
 [Linkedin]: https://www.linkedin.com/in/israellaguan
 [github-icon]: https://img.icons8.com/color/48/000000/github--v1.png
