@@ -27,11 +27,11 @@
 
 <h3 align="center">Stats</h3>
 
-  <p align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandroparisi&layout=compact&theme=graywhite&title_color=268bd2" alt="leandro-parisi-used-languages" />
-  </p>
   <p align="center">&nbsp;
       <img src="https://github-readme-stats.vercel.app/api?username=leandroparisi&count_private=true&show_icons=true&theme=graywhite&icon_color=268bd2&title_color=268bd2" alt="leandro-parisi-gitstatus" />
+  </p>
+  <p align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandroparisi&layout=compact&theme=graywhite&title_color=268bd2" alt="leandro-parisi-used-languages" />
   </p>
 
 <hr />
