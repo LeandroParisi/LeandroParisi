@@ -1,7 +1,7 @@
 # Hi, I am *willing to collaborate as a team player building better code.*
 
 <header>
-  <nav style="margin:auto">
+  <nav align="center" style="margin:auto; align:center">
     <a href="https://www.linkedin.com/in/leandro-parisi/" target="_blank">
       <img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
     </a>
