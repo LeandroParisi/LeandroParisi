@@ -1,8 +1,20 @@
 # Hi, I am *willing to collaborate as a team player building better code.*
 
-<p align="center">
-  [lepcbelisario@gmail.com]
-</p>
+<header>
+  <nav style="margin:auto">
+    <a href="https://www.linkedin.com/in/leandro-parisi/" target="_blank">
+      <img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
+    </a>
+    <a href="https://github.com/leandroparisi" target="_blank">
+      <img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="48px" height="48px">
+    </a> 
+    <a href="https://www.instagram.com/leandroparisi.art/" target="_blank">
+      <img src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491579602-yumminkysocialmedia36_83067.png" width="48px" height="48px">
+    </a> 
+  </nav>
+</header>
+
+
 
 ![email-icon][] Email me to [lepcbelisario@gmail.com][] ![linkedin-icon][] Connect in [Linkedin][]
 | :---: |
