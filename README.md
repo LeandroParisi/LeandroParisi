@@ -1,5 +1,9 @@
 # Hi, I am *willing to collaborate as a team player building better code.*
 
+<p align="center">
+  [lepcbelisario@gmail.com]
+</p>
+
 ![email-icon][] Email me to [lepcbelisario@gmail.com][] ![linkedin-icon][] Connect in [Linkedin][]
 | :---: |
 ![banner][]
