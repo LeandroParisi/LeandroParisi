@@ -1,5 +1,16 @@
 <h2 align="center">Leandro parisi</h2>
 <h3 align="center">Junior Front-end web developer</h3>
+<p align="right">
+  <a href="https://www.linkedin.com/in/leandro-parisi/" target="_blank" >
+    <img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="20px" height="20px">
+  </a>
+  <a href="https://github.com/leandroparisi" target="_blank" >
+    <img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="20px" height="20px">
+  </a> 
+  <a href="https://www.instagram.com/leandroparisi.art/" target="_blank" >
+    <img src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491579602-yumminkysocialmedia36_83067.png" width="20px" height="20px">
+  </a> 
+</p>
 
 <br />
 <p align="center">
