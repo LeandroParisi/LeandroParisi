@@ -4,9 +4,6 @@
   <a href="https://www.linkedin.com/in/leandro-parisi/" target="_blank" >
     <img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="35px">
   </a>
-  <a href="https://github.com/leandroparisi" target="_blank" >
-    <img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="35px">
-  </a> 
   <a href="https://www.instagram.com/leandroparisi.art/" target="_blank" >
     <img src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491579602-yumminkysocialmedia36_83067.png" width="35px">
   </a> 
