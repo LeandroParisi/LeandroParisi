@@ -18,10 +18,12 @@
 <hr />
 
 <h3 align="center">Portfolio</h3>
+- [x] *[Pokedex - React: Router / CRUD; CSS / APIs](https://leandroparisi.github.io/pokedex/)*
 
 <hr />
 
 <h3 align="center">Languages and tools</h3>
+<img src="https://raw.githubusercontent.com/leandroparisi/leandroparisi/main/assets/JavaScript-icon.png" alt="stacks"/>
 
 <hr />
 
@@ -35,9 +37,6 @@
   </p>
 
 <hr />
-
-
-<br />
 <h4 align="center">Connect with me!</h4>
 <p align="center">
   <a href="https://www.linkedin.com/in/leandro-parisi/" target="_blank" >
