@@ -24,11 +24,13 @@
 <hr />
 
 <h3 align="center">Languages and tools</h3>
-<img src="https://raw.githubusercontent.com/leandroparisi/leandroparisi/main/assets/JavaScript-icon.png" alt="JavaScript" width="100px"/>
-<img src="https://raw.githubusercontent.com/leandroparisi/leandroparisi/main/assets/Css-icon.png" alt="CSS" width="100px"/>
-<img src="https://raw.githubusercontent.com/leandroparisi/leandroparisi/main/assets/Html-icon.png" alt="HTML" width="100px"/>
-<img src="https://raw.githubusercontent.com/leandroparisi/leandroparisi/main/assets/Jest-icon.png" alt="Jest" width="100px"/>
-<img src="https://raw.githubusercontent.com/leandroparisi/leandroparisi/main/assets/React-icon.png" alt="React" width="100px"/>
+<div display="flex">
+  <img src="https://raw.githubusercontent.com/leandroparisi/leandroparisi/main/assets/JavaScript-icon.png" alt="JavaScript" width="100px"/>
+  <img src="https://raw.githubusercontent.com/leandroparisi/leandroparisi/main/assets/Css-icon.png" alt="CSS" width="100px"/>
+  <img src="https://raw.githubusercontent.com/leandroparisi/leandroparisi/main/assets/Html-icon.png" alt="HTML" width="100px"/>
+  <img src="https://raw.githubusercontent.com/leandroparisi/leandroparisi/main/assets/Jest-icon.png" alt="Jest" width="100px"/>
+  <img src="https://raw.githubusercontent.com/leandroparisi/leandroparisi/main/assets/React-icon.png" alt="React" width="100px"/>
+</div>
 
 <hr />
 
