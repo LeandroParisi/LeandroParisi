@@ -19,7 +19,7 @@
 
 <h3 align="center">Portfolio</h3>
 
-- [x] *[Pokedex - React / Router / CRUD / CSS / APIs](https://leandroparisi.github.io/pokedex/)*
+[x] *[Pokedex (React / Router / CRUD / CSS / APIs)](https://leandroparisi.github.io/pokedex/)*
 
 <hr />
 
