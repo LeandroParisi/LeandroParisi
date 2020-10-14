@@ -11,7 +11,11 @@
 <br />
 <p align="center">
   I believe technology and mailny programming are great tools to create a better world not just for me but also for the next generations!! :rocket:
+  <a href="https://raw.githubusercontent.com/leandroparisi/leandroparisi/main/archives/CV.pdf" target="_blank">
+    Curriculum - PDF
+  </a>
 </p>
+
 <hr />
 
 <h3 align="center">Portfolio</h3>
