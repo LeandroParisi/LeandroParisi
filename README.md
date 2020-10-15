@@ -10,7 +10,7 @@
 </p>
 <br />
 <p align="center">
-  I believe technology and mailny programming are great tools to create a better world not just for me but also for the next generations!! :rocket:
+  I believe technology and mainly programming are great tools to create a better world not just for me but also for the next generations!! :rocket:
 </p>
 <br />
 <p align="center">
@@ -28,7 +28,7 @@
 <hr />
 
 <h3 align="center">Languages and tools</h3>
-<div display="flex">
+<div display="flex" justify-content="space-around">
   <img src="https://raw.githubusercontent.com/leandroparisi/leandroparisi/main/assets/JavaScript-icon.png" alt="JavaScript" width="70px"/>
   <img src="https://raw.githubusercontent.com/leandroparisi/leandroparisi/main/assets/Css-icon.png" alt="CSS" width="70px"/>
   <img src="https://raw.githubusercontent.com/leandroparisi/leandroparisi/main/assets/Html-icon.png" alt="HTML" width="70px"/>
