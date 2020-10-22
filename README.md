@@ -29,12 +29,12 @@
 <h3 align="center">Projetos estudo</h3>
 <h4>Introduction to Web development</h4>
 
-- [x] *[Basic HTML and CSS - ](URL)*
-- [x] *[Meme Generator - ](URL)*
-- [x] *[Pixel Art - ](URL)*
-- [x] *[Task List - ](URL)*
-- [x] *[Guess the Color - ](URL)*
-- [x] *[Misterious Card - ](URL)*
+- [x] *[Basic HTML and CSS (HTML / CSS)](URL)*
+- [x] *[Meme Generator (HTML / CSS / JS)](URL)*
+- [x] *[Pixel Art (HTML / CSS / JS)](URL)*
+- [x] *[Task List (HTML / CSS / JS)](URL)*
+- [ ] *[Guess the Color (HTML / CSS / JS)](URL)*
+- [ ] *[Misterious Card (HTML / CSS / JS)](URL)*
 <hr />
 
 
