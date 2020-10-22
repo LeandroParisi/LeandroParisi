@@ -31,12 +31,12 @@
 
 [JS]
 
-- [x] *[Basic HTML and CSS](URL)*
-- [x] *[Meme Generator (HTML / CSS / JS)](URL)*
-- [x] *[Pixel Art (HTML / CSS / JS)](URL)*
-- [x] *[Task List (HTML / CSS / JS)](URL)*
-- [x] *[Guess the Color (HTML / CSS / JS)](URL)*
-- [x] *[Misterious Card (HTML / CSS / JS)](URL)*
+- [x] *[Basic HTML and CSS - ](URL)*
+- [x] *[Meme Generator - ](URL)*
+- [x] *[Pixel Art - ](URL)*
+- [x] *[Task List - ](URL)*
+- [x] *[Guess the Color - ](URL)*
+- [x] *[Misterious Card - ](URL)*
 <hr />
 
 
@@ -100,6 +100,14 @@
 
 <hr />
 <br />
+
+{% capture Focus_content %}
+
+Focus devices are awesome.
+
+{% endcapture %}
+
+{{Focus_content}}
 
 
 [JS]: <img src="https://raw.githubusercontent.com/leandroparisi/leandroparisi/main/assets/JavaScript-icon.png" alt="JavaScript" width="70px"/>
