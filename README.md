@@ -29,8 +29,6 @@
 <h3 align="center">Projetos estudo</h3>
 <h4>Introduction to Web development</h4>
 
-[![BG][JS]][www.teste.com]
-
 - [x] *[Basic HTML and CSS](URL)*
 - [x] *[Meme Generator (HTML / CSS / JS)](URL)*
 - [x] *[Pixel Art (HTML / CSS / JS)](URL)*
