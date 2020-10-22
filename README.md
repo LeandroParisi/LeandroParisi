@@ -23,7 +23,7 @@
 
 <h3 align="center">Portfolio</h3>
 
-- [x] *[Pokedex (React: Router, CRUD / CSS / API request)](https://leandroparisi.github.io/pokedex/)*
+- [x] *[Pokedex](https://leandroparisi.github.io/pokedex/)*(React: Router, CRUD / CSS / API request)
 <hr />
 
 <h3 align="center">Projetos estudo</h3>
@@ -98,17 +98,3 @@
 
 <hr />
 <br />
-
-
-[[JS]]
-
-
-[JS]: <img src="https://raw.githubusercontent.com/leandroparisi/leandroparisi/main/assets/JavaScript-icon.png" alt="JavaScript" width="15px"/>
-
-[CSS]: <img src="https://raw.githubusercontent.com/leandroparisi/leandroparisi/main/assets/Css-icon.png" alt="CSS" width="15px"/>
-
-<img src="https://raw.githubusercontent.com/leandroparisi/leandroparisi/main/assets/Html-icon.png" alt="HTML" width="15px"/>
-
-<img src="https://raw.githubusercontent.com/leandroparisi/leandroparisi/main/assets/Jest-icon.png" alt="Jest" width="15px"/>
-
-<img src="https://raw.githubusercontent.com/leandroparisi/leandroparisi/main/assets/React-icon.png" alt="React" width="15px"/>
