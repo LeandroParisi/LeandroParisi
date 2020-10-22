@@ -29,8 +29,6 @@
 <h3 align="center">Projetos estudo</h3>
 <h4>Introduction to Web development</h4>
 
-[JS]
-
 - [x] *[Basic HTML and CSS - ](URL)*
 - [x] *[Meme Generator - ](URL)*
 - [x] *[Pixel Art - ](URL)*
@@ -101,13 +99,8 @@
 <hr />
 <br />
 
-{% capture Focus_content %}
 
-Focus devices are awesome.
-
-{% endcapture %}
-
-{{Focus_content}}
+[[JS]]
 
 
 [JS]: <img src="https://raw.githubusercontent.com/leandroparisi/leandroparisi/main/assets/JavaScript-icon.png" alt="JavaScript" width="70px"/>
