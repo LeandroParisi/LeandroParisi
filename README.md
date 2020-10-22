@@ -23,17 +23,52 @@
 
 <h3 align="center">Portfolio</h3>
 
-- [x] *[Pokedex (React / Router / CRUD / CSS / APIs)](https://leandroparisi.github.io/pokedex/)*
+- [x] *[Pokedex (React: Router, CRUD / CSS / API request)](https://leandroparisi.github.io/pokedex/)*
+<hr />
 
+<h3 align="center">Projetos estudo</h3>
+<h4>Introduction to Web development</h4>
+
+- [x] *[1. Basic HTML and CSS (HTML / CSS)](URL)*
+- [ ] *[2. Meme Generator (HTML / CSS / JS)](URL)*
+- [ ] *[3. Pixel Art (HTML / CSS / JS)](URL)*
+- [ ] *[4. Task List (HTML / CSS / JS)](URL)*
+- [ ] *[5. Guess the Color (HTML / CSS / JS)](URL)*
+- [ ] *[6. Misterious Card (HTML / CSS / JS)](URL)*
+<hr />
+
+
+<h4>Front-end Development</h4>
+
+- [x] *[1. Facebook HomePage (HTML / CSS / JS)](URL)*
+- [x] *[2. JavaScript Unit Tests (JS unit tests)](URL)*
+- [x] *[3. Zoo functions (JS logic and HoF)](URL)*
+- [x] *[4. Shopping Cart (API request)](URL)*
+- [x] *[5. Asynchronous Jest and Mocking (Jest)](URL)*
+- [x] *[6. Movie Cards Library (React)](URL)*
+- [x] *[7. Movie Cards Library Stateful (React: State)](URL)*
+- [x] *[8. Movie Cards Library CRUD (React: CRUD)](URL)*
+- [x] *[9. Frontend Online Store (React / API Request / Forms)](URL)*
+- [x] *[10. React Tests (React Testing Library)](URL)*
+- [ ] *[11. Table with data filters]()*
+- [ ] *[12. Trivia Game]()*
+- [ ] *[13. Datatable StarWars with Context API and Hooks]()*
+- [ ] *[14. Recipe App]()*
+<hr />
+
+
+<h4>Back-end Development</h4>
+
+<p>Coming soon!!</p>
 <hr />
 
 <h3 align="center">Languages and tools</h3>
 <div style="margin: auto">
-  <img align="center" src="https://raw.githubusercontent.com/leandroparisi/leandroparisi/main/assets/JavaScript-icon.png" alt="JavaScript" width="70px"/>
-  <img align="center" src="https://raw.githubusercontent.com/leandroparisi/leandroparisi/main/assets/Css-icon.png" alt="CSS" width="70px"/>
-  <img align="center" src="https://raw.githubusercontent.com/leandroparisi/leandroparisi/main/assets/Html-icon.png" alt="HTML" width="70px"/>
-  <img align="center" src="https://raw.githubusercontent.com/leandroparisi/leandroparisi/main/assets/Jest-icon.png" alt="Jest" width="70px"/>
-  <img align="center" src="https://raw.githubusercontent.com/leandroparisi/leandroparisi/main/assets/React-icon.png" alt="React" width="70px"/>
+  <img src="https://raw.githubusercontent.com/leandroparisi/leandroparisi/main/assets/JavaScript-icon.png" alt="JavaScript" width="70px"/>
+  <img src="https://raw.githubusercontent.com/leandroparisi/leandroparisi/main/assets/Css-icon.png" alt="CSS" width="70px"/>
+  <img src="https://raw.githubusercontent.com/leandroparisi/leandroparisi/main/assets/Html-icon.png" alt="HTML" width="70px"/>
+  <img src="https://raw.githubusercontent.com/leandroparisi/leandroparisi/main/assets/Jest-icon.png" alt="Jest" width="70px"/>
+  <img src="https://raw.githubusercontent.com/leandroparisi/leandroparisi/main/assets/React-icon.png" alt="React" width="70px"/>
 </div>
 
 <hr />
