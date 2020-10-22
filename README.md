@@ -23,33 +23,33 @@
 
 <h3 align="center">Portfolio</h3>
 
-- [x] *[Pokedex](https://leandroparisi.github.io/pokedex/)*(React: Router, CRUD / CSS / API request)
+- [x] *[Pokedex](https://leandroparisi.github.io/pokedex/)* (React: Router, CRUD / CSS / API request)
 <hr />
 
 <h3 align="center">Projetos estudo</h3>
 <h4>Introduction to Web development</h4>
 
-- [x] *[Basic HTML and CSS (HTML / CSS)](URL)*
-- [x] *[Meme Generator (HTML / CSS / JS)](URL)*
-- [x] *[Pixel Art (HTML / CSS / JS)](URL)*
-- [x] *[Task List (HTML / CSS / JS)](URL)*
-- [ ] *[Guess the Color (HTML / CSS / JS)](URL)*
-- [ ] *[Misterious Card (HTML / CSS / JS)](URL)*
+- [x] *[Basic HTML and CSS](URL)* (HTML / CSS)
+- [x] *[Meme Generator](URL)* (HTML / CSS / JS)
+- [x] *[Pixel Art](URL)* (HTML / CSS / JS)
+- [x] *[Task List](URL)* (HTML / CSS / JS)
+- [ ] *[Guess the Color](URL)* (HTML / CSS / JS)
+- [ ] *[Misterious Card](URL)* (HTML / CSS / JS)
 <hr />
 
 
 <h4>Front-end Development</h4>
 
-- [x] *[Facebook HomePage (HTML / CSS / JS)](URL)*
-- [x] *[JavaScript Unit Tests (JS unit tests)](URL)*
-- [x] *[Zoo functions (JS logic and HoF)](URL)*
-- [x] *[Shopping Cart (API request)](URL)*
-- [x] *[Asynchronous Jest and Mocking (Jest)](URL)*
-- [x] *[Movie Cards Library (React)](URL)*
-- [x] *[Movie Cards Library Stateful (React: State)](URL)*
-- [x] *[Movie Cards Library CRUD (React: CRUD)](URL)*
-- [x] *[Frontend Online Store (React / API Request / Forms)](URL)*
-- [x] *[React Tests (React Testing Library)](URL)*
+- [x] *[Facebook HomePage](URL)* (HTML / CSS / JS)
+- [x] *[JavaScript Unit Tests](URL)* (JS unit tests)
+- [x] *[Zoo functions](URL)* (JS logic and HoF)
+- [x] *[Shopping Cart](URL)* (API request)
+- [x] *[Asynchronous Jest and Mocking](URL)* (Jest)
+- [x] *[Movie Cards Library](URL)* (React)
+- [x] *[Movie Cards Library Stateful](URL)* (React: State)
+- [x] *[Movie Cards Library CRUD](URL)* (React: CRUD)
+- [x] *[Frontend Online Store](URL)* (React / API Request / Forms)
+- [x] *[React Tests](URL)* (React Testing Library)
 - [ ] *[Table with data filters]()*
 - [ ] *[Trivia Game]()*
 - [ ] *[Datatable StarWars with Context API and Hooks]()*
