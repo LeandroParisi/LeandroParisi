@@ -29,31 +29,31 @@
 <h3 align="center">Projetos estudo</h3>
 <h4>Introduction to Web development</h4>
 
-- [x] *[1. Basic HTML and CSS (HTML / CSS)](URL)*
-- [x] *[2. Meme Generator (HTML / CSS / JS)](URL)*
-- [x] *[3. Pixel Art (HTML / CSS / JS)](URL)*
-- [x] *[4. Task List (HTML / CSS / JS)](URL)*
-- [x] *[5. Guess the Color (HTML / CSS / JS)](URL)*
-- [x] *[6. Misterious Card (HTML / CSS / JS)](URL)*
+- [x] *[Basic HTML and CSS (HTML / CSS)](URL)*
+- [x] *[Meme Generator (HTML / CSS / JS)](URL)*
+- [x] *[Pixel Art (HTML / CSS / JS)](URL)*
+- [x] *[Task List (HTML / CSS / JS)](URL)*
+- [x] *[Guess the Color (HTML / CSS / JS)](URL)*
+- [x] *[Misterious Card (HTML / CSS / JS)](URL)*
 <hr />
 
 
 <h4>Front-end Development</h4>
 
-- [x] *[1. Facebook HomePage (HTML / CSS / JS)](URL)*
-- [x] *[2. JavaScript Unit Tests (JS unit tests)](URL)*
-- [x] *[3. Zoo functions (JS logic and HoF)](URL)*
-- [x] *[4. Shopping Cart (API request)](URL)*
-- [x] *[5. Asynchronous Jest and Mocking (Jest)](URL)*
-- [x] *[6. Movie Cards Library (React)](URL)*
-- [x] *[7. Movie Cards Library Stateful (React: State)](URL)*
-- [x] *[8. Movie Cards Library CRUD (React: CRUD)](URL)*
-- [x] *[9. Frontend Online Store (React / API Request / Forms)](URL)*
-- [x] *[10. React Tests (React Testing Library)](URL)*
-- [ ] *[11. Table with data filters]()*
-- [ ] *[12. Trivia Game]()*
-- [ ] *[13. Datatable StarWars with Context API and Hooks]()*
-- [ ] *[14. Recipe App]()*
+- [x] *[Facebook HomePage (HTML / CSS / JS)](URL)*
+- [x] *[JavaScript Unit Tests (JS unit tests)](URL)*
+- [x] *[Zoo functions (JS logic and HoF)](URL)*
+- [x] *[Shopping Cart (API request)](URL)*
+- [x] *[Asynchronous Jest and Mocking (Jest)](URL)*
+- [x] *[Movie Cards Library (React)](URL)*
+- [x] *[Movie Cards Library Stateful (React: State)](URL)*
+- [x] *[Movie Cards Library CRUD (React: CRUD)](URL)*
+- [x] *[Frontend Online Store (React / API Request / Forms)](URL)*
+- [x] *[React Tests (React Testing Library)](URL)*
+- [ ] *[Table with data filters]()*
+- [ ] *[Trivia Game]()*
+- [ ] *[Datatable StarWars with Context API and Hooks]()*
+- [ ] *[Recipe App]()*
 <hr />
 
 
