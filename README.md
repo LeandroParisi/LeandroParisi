@@ -30,11 +30,11 @@
 <h4>Introduction to Web development</h4>
 
 - [x] *[1. Basic HTML and CSS (HTML / CSS)](URL)*
-- [ ] *[2. Meme Generator (HTML / CSS / JS)](URL)*
-- [ ] *[3. Pixel Art (HTML / CSS / JS)](URL)*
-- [ ] *[4. Task List (HTML / CSS / JS)](URL)*
-- [ ] *[5. Guess the Color (HTML / CSS / JS)](URL)*
-- [ ] *[6. Misterious Card (HTML / CSS / JS)](URL)*
+- [x] *[2. Meme Generator (HTML / CSS / JS)](URL)*
+- [x] *[3. Pixel Art (HTML / CSS / JS)](URL)*
+- [x] *[4. Task List (HTML / CSS / JS)](URL)*
+- [x] *[5. Guess the Color (HTML / CSS / JS)](URL)*
+- [x] *[6. Misterious Card (HTML / CSS / JS)](URL)*
 <hr />
 
 
