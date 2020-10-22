@@ -29,21 +29,22 @@
 <h3 align="center">Projetos estudo</h3>
 <h4>Introduction to Web development</h4>
 
-- [x] *[Basic HTML and CSS](URL)* (HTML / CSS)
-- [x] *[Meme Generator](URL)* (HTML / CSS / JS)
-- [x] *[Pixel Art](URL)* (HTML / CSS / JS)
-- [x] *[Task List](URL)* (HTML / CSS / JS)
-- [ ] *[Guess the Color](URL)* (HTML / CSS / JS)
-- [ ] *[Misterious Card](URL)* (HTML / CSS / JS)
+- [x] *[Basic HTML and CSS](https://leandroparisi.github.io/B1.lessons-learned/)* (HTML / CSS)
+- [x] *[Playground Functions](https://github.com/LeandroParisi/playground-functions)* (JS)
+- [x] *[Meme Generator](https://leandroparisi.github.io/B3.meme-generator/)* (HTML / CSS / JS)
+- [x] *[Pixel Art](https://leandroparisi.github.io/B4.pixel-art/)* (HTML / CSS / JS)
+- [x] *[Task List](https://leandroparisi.github.io/B5.todo-list/)* (HTML / CSS / JS)
+- [ ] *[Guess the Color]()* (HTML / CSS / JS)
+- [ ] *[Misterious Card]()* (HTML / CSS / JS)
 <hr />
 
 
 <h4>Front-end Development</h4>
 
-- [x] *[Facebook HomePage](URL)* (HTML / CSS / JS)
-- [x] *[JavaScript Unit Tests](URL)* (JS unit tests)
-- [x] *[Zoo functions](URL)* (JS logic and HoF)
-- [x] *[Shopping Cart](URL)* (API request)
+- [x] *[Facebook HomePage](https://leandroparisi.github.io/B6.facebook-homePage/)* (HTML / CSS / JS)
+- [x] *[JavaScript Unit Tests](https://github.com/LeandroParisi/B7.js-unit-tests)* (JS unit tests)
+- [x] *[Zoo functions](https://github.com/LeandroParisi/B8.zoo-functions)* (JS logic and HoF)
+- [x] *[Shopping Cart](https://leandroparisi.github.io/B9.shopping-cart/)* (JS Async)
 - [x] *[Asynchronous Jest and Mocking](URL)* (Jest)
 - [x] *[Movie Cards Library](URL)* (React)
 - [x] *[Movie Cards Library Stateful](URL)* (React: State)
