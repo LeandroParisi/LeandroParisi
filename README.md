@@ -29,6 +29,8 @@
 <h3 align="center">Projetos estudo</h3>
 <h4>Introduction to Web development</h4>
 
+[JS]
+
 - [x] *[Basic HTML and CSS](URL)*
 - [x] *[Meme Generator (HTML / CSS / JS)](URL)*
 - [x] *[Pixel Art (HTML / CSS / JS)](URL)*
@@ -100,4 +102,12 @@
 <br />
 
 
-[JS]: https://raw.githubusercontent.com/leandroparisi/leandroparisi/main/assets/JavaScript-icon.png
+[JS]: <img src="https://raw.githubusercontent.com/leandroparisi/leandroparisi/main/assets/JavaScript-icon.png" alt="JavaScript" width="70px"/>
+
+<img src="https://raw.githubusercontent.com/leandroparisi/leandroparisi/main/assets/Css-icon.png" alt="CSS" width="70px"/>
+
+<img src="https://raw.githubusercontent.com/leandroparisi/leandroparisi/main/assets/Html-icon.png" alt="HTML" width="70px"/>
+
+<img src="https://raw.githubusercontent.com/leandroparisi/leandroparisi/main/assets/Jest-icon.png" alt="Jest" width="70px"/>
+
+<img src="https://raw.githubusercontent.com/leandroparisi/leandroparisi/main/assets/React-icon.png" alt="React" width="70px"/>
