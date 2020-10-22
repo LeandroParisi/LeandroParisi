@@ -29,7 +29,7 @@
 <h3 align="center">Projetos estudo</h3>
 <h4>Introduction to Web development</h4>
 
-- [x] *[Basic HTML and CSS (HTML / CSS)](URL)*
+- [x] *[Basic HTML and CSS (HTML / CSS)](URL)*<span><img src="https://raw.githubusercontent.com/leandroparisi/leandroparisi/main/assets/JavaScript-icon.png" alt="JavaScript" width="20px"/></span>
 - [x] *[Meme Generator (HTML / CSS / JS)](URL)*
 - [x] *[Pixel Art (HTML / CSS / JS)](URL)*
 - [x] *[Task List (HTML / CSS / JS)](URL)*
