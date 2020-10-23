@@ -45,12 +45,12 @@
 - [x] *[JavaScript Unit Tests](https://github.com/LeandroParisi/B7.js-unit-tests)* (JS unit tests)
 - [x] *[Zoo functions](https://github.com/LeandroParisi/B8.zoo-functions)* (JS logic and HoF)
 - [x] *[Shopping Cart](https://leandroparisi.github.io/B9.shopping-cart/)* (JS Async)
-- [x] *[Asynchronous Jest and Mocking](URL)* (Jest)
-- [x] *[Movie Cards Library](URL)* (React)
-- [x] *[Movie Cards Library Stateful](URL)* (React: State)
-- [x] *[Movie Cards Library CRUD](URL)* (React: CRUD)
-- [x] *[Frontend Online Store](URL)* (React / API Request / Forms)
-- [x] *[React Tests](URL)* (React Testing Library)
+- [x] *[Asynchronous Jest and Mocking](https://github.com/LeandroParisi/B10.asynchronous-jest-and-mock)* (Jest)
+- [x] *[Movie Cards Library](https://leandroparisi.github.io/B11.movie-card-library/)* (React)
+- [x] *[Movie Cards Library Stateful](https://leandroparisi.github.io/B12.movie-cards-library-stateful/)* (React: State)
+- [x] *[Movie Cards Library CRUD](https://leandroparisi.github.io/B13.movie-card-library-crud/)* (React: CRUD)
+- [x] *[Frontend Online Store](https://leandroparisi.github.io/B14.online-store/)* (React / API Request / Forms)
+- [x] *[React Tests](https://github.com/LeandroParisi/B15.react-testing-library)* (React Testing Library)
 - [ ] *[Table with data filters]()*
 - [ ] *[Trivia Game]()*
 - [ ] *[Datatable StarWars with Context API and Hooks]()*
