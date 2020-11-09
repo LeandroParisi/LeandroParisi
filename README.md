@@ -75,23 +75,11 @@
 
 <h4>Back-end Development</h4>
 
-<p>Coming soon!!</p>
-
-<hr />
-
-<h3 align="center">Stats</h3>
-
-  <p align="center">&nbsp;
-      <img src="https://github-readme-stats.vercel.app/api?username=leandroparisi&count_private=true&show_icons=true&theme=graywhite&icon_color=268bd2&title_color=268bd2" alt="leandro-parisi-gitstatus" />
-  </p>
-  <p align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandroparisi&layout=compact&theme=graywhite&title_color=268bd2" alt="leandro-parisi-used-languages" />
-  </p>
+  <p>Coming soon!!</p>
 
 <hr />
 
 <h3 align="center">Certificates</h4>
-
 <p align="center">
   <a href="https://raw.githubusercontent.com/leandroparisi/leandroparisi/main/archives/Trybe - Certificado Módulo 1 - Leandro Parisi Carvalho Belisario.pdf" target="_blank">
     2020.10 - Trybe Module 1
@@ -103,6 +91,17 @@
     2020.09 - Hackaton GetNet
   </a>
 </p>
+
+<hr />
+
+<h3 align="center">Stats</h3>
+
+  <p align="center">&nbsp;
+      <img src="https://github-readme-stats.vercel.app/api?username=leandroparisi&count_private=true&show_icons=true&theme=graywhite&icon_color=268bd2&title_color=268bd2" alt="leandro-parisi-gitstatus" />
+  </p>
+  <p align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandroparisi&layout=compact&theme=graywhite&title_color=268bd2" alt="leandro-parisi-used-languages" />
+  </p>
 
 <hr />
 
