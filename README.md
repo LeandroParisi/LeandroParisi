@@ -14,7 +14,7 @@
 </p>
 <br />
 <p align="center">
-  <a href="https://raw.githubusercontent.com/leandroparisi/leandroparisi/main/archives/CV-LeandroParisi.pdf" target="_blank">
+  <a href="https://raw.githubusercontent.com/leandroparisi/leandroparisi/main/archives/CV-LeandroParisi_v1.1.pdf" target="_blank">
     Curriculum - PDF
   </a>
 </p>
