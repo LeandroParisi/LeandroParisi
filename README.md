@@ -89,6 +89,23 @@
   </p>
 
 <hr />
+
+<h3 align="center">Certificates</h4>
+
+<p align="center">
+  <a href="https://raw.githubusercontent.com/leandroparisi/leandroparisi/main/archives/Trybe - Certificado Módulo 1 - Leandro Parisi Carvalho Belisario.pdf" target="_blank">
+    2020.10 - Trybe Module 1
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://raw.githubusercontent.com/leandroparisi/leandroparisi/main/archives/Hackaton GetNet 2020 - Leandro Parsi Carvalho Belisário.pdf" target="_blank">
+    2020.09 - Hackaton GetNet
+  </a>
+</p>
+
+<hr />
+
 <h4 align="center">Connect with me!</h4>
 <p align="center">
   <a href="https://www.linkedin.com/in/leandro-parisi/" target="_blank" >
