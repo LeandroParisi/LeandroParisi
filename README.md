@@ -66,8 +66,7 @@
 - [x] *[Movie Cards Library CRUD](https://leandroparisi.github.io/B13.movie-card-library-crud/)* (React: CRUD)
 - [x] *[Frontend Online Store](https://leandroparisi.github.io/B14.online-store/)* (React / API Request / Forms)
 - [x] *[React Tests](https://github.com/LeandroParisi/B15.react-testing-library)* (React Testing Library)
-- [ ] *[Table with data filters]()*
-- [ ] *[Trivia Game]()*
+- [x] *[Trivia Game]()*
 - [ ] *[Datatable StarWars with Context API and Hooks]()*
 - [ ] *[Recipe App]()*
 <hr />
