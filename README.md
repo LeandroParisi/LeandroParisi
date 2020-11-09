@@ -36,6 +36,7 @@
   <img src="https://raw.githubusercontent.com/leandroparisi/leandroparisi/main/assets/React-icon.png" alt="React" width="70px"/>
   <img src="https://raw.githubusercontent.com/leandroparisi/leandroparisi/main/assets/Redux-icon.png" alt="React" width="70px"/>
   <img src="https://raw.githubusercontent.com/leandroparisi/leandroparisi/main/assets/Sass-icon.png" alt="React" width="70px"/>
+  <img src="https://raw.githubusercontent.com/leandroparisi/leandroparisi/main/assets/reactTestingLibrary-logo.png" alt="React" width="70px"/>
 </div>
 
 <hr />
