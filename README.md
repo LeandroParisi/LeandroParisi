@@ -26,8 +26,6 @@
 - [x] *[Pokedex](https://leandroparisi.github.io/pokedex/)* (React: Router, CRUD / CSS / API request)
 - [x] *[Trivia Game](https://leandroparisi.github.io/A1.trivia-game)* (React / Redux / SASS) 
 
-https://leandroparisi.github.io/A1.trivia-game
-
 <hr />
 
 <h3 align="center">Languages and tools</h3>
