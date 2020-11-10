@@ -24,6 +24,9 @@
 <h3 align="center">Portfolio</h3>
 
 - [x] *[Pokedex](https://leandroparisi.github.io/pokedex/)* (React: Router, CRUD / CSS / API request)
+- [x] *[Trivia Game](https://leandroparisi.github.io/A1.trivia-game)* (React / Redux / SASS) 
+
+https://leandroparisi.github.io/A1.trivia-game
 
 <hr />
 
