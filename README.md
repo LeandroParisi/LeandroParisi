@@ -14,7 +14,7 @@
 </p>
 <br />
 <p align="center">
-  <a href="https://raw.githubusercontent.com/leandroparisi/leandroparisi/main/archives/CV-LeandroParisi_v1.1.pdf" target="_blank">
+  <a href="https://raw.githubusercontent.com/leandroparisi/leandroparisi/main/archives/CV-Leandro_Parisi.pdf" target="_blank">
     Curriculum - PDF
   </a>
 </p>
@@ -23,8 +23,9 @@
 
 <h3 align="center">Portfolio</h3>
 
-- [x] *[Pokedex](https://leandroparisi.github.io/pokedex/)* (React: Router, CRUD / CSS / API request)
-- [x] *[Trivia Game](https://github.com/LeandroParisi/A1.trivia-game)* (React / Redux / SASS / RTL) 
+- [x] _[Pokedex](https://leandroparisi.github.io/pokedex/)_ (React: Router, CRUD / CSS / API request)
+- [x] _[Trivia Game](https://github.com/LeandroParisi/A1.trivia-game)_ (React / Redux / SASS / RTL)
+- [x] _[Resale - Outlet Imobiliário](https://resale.com.br/)_ (React / SASS)
 
 <hr />
 
@@ -38,60 +39,62 @@
   <img src="https://raw.githubusercontent.com/leandroparisi/leandroparisi/main/assets/Redux-icon.png" alt="React" width="70px"/>
   <img src="https://raw.githubusercontent.com/leandroparisi/leandroparisi/main/assets/Sass-icon.png" alt="React" width="70px"/>
   <img src="https://raw.githubusercontent.com/leandroparisi/leandroparisi/main/assets/reactTestingLibrary-logo.png" alt="React" width="70px"/>
+  <img src="https://raw.githubusercontent.com/leandroparisi/leandroparisi/main/assets/mongoDB.png" alt="React" width="70px"/>
+  <img src="https://raw.githubusercontent.com/leandroparisi/leandroparisi/main/assets/mySQL.png" alt="React" width="70px"/>
+  <img src="https://raw.githubusercontent.com/leandroparisi/leandroparisi/main/assets/nodejs_logo.png" alt="React" width="70px"/>
 </div>
 
 <hr />
 
-<h3 align="center">Projetos estudo</h3>
+<h3 align="center">Study projects</h3>
 <h4>Introduction to Web development</h4>
 
-- [x] *[Basic HTML and CSS](https://leandroparisi.github.io/B1.lessons-learned/)* (HTML / CSS)
-- [x] *[Playground Functions](https://github.com/LeandroParisi/playground-functions)* (JS)
-- [x] *[Meme Generator](https://leandroparisi.github.io/B3.meme-generator/)* (HTML / CSS / JS)
-- [x] *[Pixel Art](https://leandroparisi.github.io/B4.pixel-art/)* (HTML / CSS / JS)
-- [x] *[Task List](https://leandroparisi.github.io/B5.todo-list/)* (HTML / CSS / JS)
-- [ ] *[Guess the Color]()* (HTML / CSS / JS)
-- [ ] *[Misterious Card]()* (HTML / CSS / JS)
+- [x] _[Basic HTML and CSS](https://leandroparisi.github.io/B1.lessons-learned/)_ (HTML / CSS)
+- [x] _[Playground Functions](https://github.com/LeandroParisi/playground-functions)_ (JS)
+- [x] _[Meme Generator](https://leandroparisi.github.io/B3.meme-generator/)_ (HTML / CSS / JS)
+- [x] _[Pixel Art](https://leandroparisi.github.io/B4.pixel-art/)_ (HTML / CSS / JS)
+- [x] _[Task List](https://leandroparisi.github.io/B5.todo-list/)_ (HTML / CSS / JS)
+- [ ] _[Guess the Color]()_ (HTML / CSS / JS)
+- [ ] _[Misterious Card]()_ (HTML / CSS / JS)
 <hr />
-
 
 <h4>Front-end Development</h4>
 
-- [x] *[Facebook HomePage](https://leandroparisi.github.io/B6.facebook-homePage/)* (HTML / CSS / JS)
-- [x] *[JavaScript Unit Tests](https://github.com/LeandroParisi/B7.js-unit-tests)* (JS unit tests)
-- [x] *[Zoo functions](https://github.com/LeandroParisi/B8.zoo-functions)* (JS logic and HoF)
-- [x] *[Shopping Cart](https://leandroparisi.github.io/B9.shopping-cart/)* (JS Async)
-- [x] *[Asynchronous Jest and Mocking](https://github.com/LeandroParisi/B10.asynchronous-jest-and-mock)* (Jest)
-- [x] *[Movie Cards Library](https://leandroparisi.github.io/B11.movie-card-library/)* (React)
-- [x] *[Movie Cards Library Stateful](https://leandroparisi.github.io/B12.movie-cards-library-stateful/)* (React: State)
-- [x] *[Movie Cards Library CRUD](https://leandroparisi.github.io/B13.movie-card-library-crud/)* (React: CRUD)
-- [x] *[Frontend Online Store](https://leandroparisi.github.io/B14.online-store/)* (React / API Request / Forms)
-- [x] *[React Tests](https://github.com/LeandroParisi/B15.react-testing-library)* (React Testing Library)
-- [x] *[Trivia Game](https://github.com/tryber/sd-06-project-trivia-react-redux/pull/71)* (React, RTL, Redux, SCSS)
-- [ ] *[Datatable StarWars with Context API and Hooks]()*
-- [ ] *[Recipe App]()*
+- [x] _[Facebook HomePage](https://leandroparisi.github.io/B6.facebook-homePage/)_ (HTML / CSS / JS)
+- [x] _[JavaScript Unit Tests](https://github.com/LeandroParisi/B7.js-unit-tests)_ (JS unit tests)
+- [x] _[Zoo functions](https://github.com/LeandroParisi/B8.zoo-functions)_ (JS logic and HoF)
+- [x] _[Shopping Cart](https://leandroparisi.github.io/B9.shopping-cart/)_ (JS Async)
+- [x] _[Asynchronous Jest and Mocking](https://github.com/LeandroParisi/B10.asynchronous-jest-and-mock)_ (Jest)
+- [x] _[Movie Cards Library](https://leandroparisi.github.io/B11.movie-card-library/)_ (React)
+- [x] _[Movie Cards Library Stateful](https://leandroparisi.github.io/B12.movie-cards-library-stateful/)_ (React: State)
+- [x] _[Movie Cards Library CRUD](https://leandroparisi.github.io/B13.movie-card-library-crud/)_ (React: CRUD)
+- [x] _[Frontend Online Store](https://leandroparisi.github.io/B14.online-store/)_ (React / API Request / Forms)
+- [x] _[React Tests](https://github.com/LeandroParisi/B15.react-testing-library)_ (React Testing Library)
+- [x] _[Trivia Game](https://github.com/tryber/sd-06-project-trivia-react-redux/pull/71)_ (React, RTL, Redux, SCSS)
+- [x] _[Datatable StarWars with Context API and Hooks](https://github.com/tryber/sd-06-project-starwars-datatable-hooks/pull/38)_ (React, SCSS)
+- [x] _[Recipe App](https://github.com/tryber/sd-06-project-recipes-app/pull/42)_ (React, SCSS)
 <hr />
-
 
 <h4>Back-end Development</h4>
 
-  <p>Coming soon!!</p>
+- [x] _[All for one](https://github.com/tryber/sd-06-mysql-all-for-one/pull/7)_ (SQL)
+- [x] _[Crush Manager](https://github.com/tryber/sd-06-crush-manager/pull/41)_ (MongoDB)
+- [x] _[Store Manager](https://github.com/tryber/sd-06-store-manager/pull/19)_ (NodeJs + MongoDB)
 
 <hr />
 
 <h3 align="center">Certificates</h4>
 <p align="center">
-  <a href="https://raw.githubusercontent.com/leandroparisi/leandroparisi/main/archives/Trybe - Certificado Módulo 1 - Leandro Parisi Carvalho Belisario.pdf" target="_blank">
-    2020.10 - Trybe Module 1
+  <a href="https://raw.githubusercontent.com/leandroparisi/leandroparisi/main/archives/2020.08.01-Trybe_Certificado_Módulo_1.pdf" target="_blank">
+    2020.08 - Trybe Module 1
+  </a>
+  <a href="https://raw.githubusercontent.com/leandroparisi/leandroparisi/main/archives/2020.10.21-Hackaton_Getnet.pdf" target="_blank">
+    2020.10 - Hackaton Getnet
+  </a>
+  <a href="https://raw.githubusercontent.com/leandroparisi/leandroparisi/main/archives/2020.12.01-Trybe_Certificado_Módulo_2.pdf" target="_blank">
+    2020.12 - Trybe Module 2
   </a>
 </p>
-
-<p align="center">
-  <a href="https://raw.githubusercontent.com/leandroparisi/leandroparisi/main/archives/Hackaton GetNet 2020 - Leandro Parsi Carvalho Belisário.pdf" target="_blank">
-    2020.09 - Hackaton GetNet
-  </a>
-</p>
-
 <hr />
 
 <h3 align="center">Stats</h3>
