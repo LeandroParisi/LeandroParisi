@@ -85,15 +85,15 @@
 
 <h3 align="center">Certificates</h4>
 <p align="center">
-  <a href="https://raw.githubusercontent.com/leandroparisi/leandroparisi/main/archives/2020.08.01-Trybe_Certificado_Módulo_1.pdf" target="_blank">
+  <a href="https://raw.githubusercontent.com/leandroparisi/leandroparisi/main/archives/Certificates/2020.08.01-Trybe_Certificado_Módulo_1.pdf" target="_blank">
     2020.08 - Trybe Module 1
   </a>
   <br />
-  <a href="https://raw.githubusercontent.com/leandroparisi/leandroparisi/main/archives/2020.10.21-Hackaton_Getnet.pdf" target="_blank">
+  <a href="https://raw.githubusercontent.com/leandroparisi/leandroparisi/main/archives/Certificates/2020.10.21-Hackaton_Getnet.pdf" target="_blank">
     2020.10 - Hackaton Getnet
   </a>
   <br />
-  <a href="https://raw.githubusercontent.com/leandroparisi/leandroparisi/main/archives/2020.12.01-Trybe_Certificado_Módulo_2.pdf" target="_blank">
+  <a href="https://raw.githubusercontent.com/leandroparisi/leandroparisi/main/archives/Certificates/2020.12.01-Trybe_Certificado_Módulo_2.pdf" target="_blank">
     2020.12 - Trybe Module 2
   </a>
 </p>
