@@ -30,7 +30,7 @@
 _[Pokedex](https://leandroparisi.github.io/pokedex/)_  (React: Router, CRUD / CSS / API request):
 - [x] _[Repository](https://github.com/LeandroParisi/pokedex)_ 
 
-_[Resale - Outlet Imobiliário](https://resale.com.br/)_ (React / SASS) *Made on my current job, so I can't share the code due to private policies
+_[Resale - Outlet Imobiliário](https://resale.com.br/)_ (React / SASS) *Made on my current job, so I can't share the code due to privacy policies
 
 Others:
 - [x] _[Trivia Game](https://github.com/LeandroParisi/A1.trivia-game)_ (React / Redux / SASS / RTL)
