@@ -40,19 +40,23 @@ Others:
 <h3 align="center">Languages and tools</h3>
 <div style="margin: auto">
   <div align="center">
-    <img style="margin: 15px" src="https://raw.githubusercontent.com/leandroparisi/leandroparisi/main/assets/JavaScript-icon.png" alt="JavaScript" width="70px"/>
-    <img style="margin: 15px" src="https://raw.githubusercontent.com/leandroparisi/leandroparisi/main/assets/Css-icon.png" alt="CSS" width="70px"/>
-    <img style="margin: 15px" src="https://raw.githubusercontent.com/leandroparisi/leandroparisi/main/assets/Html-icon.png" alt="HTML" width="70px"/>
+    <img src="https://raw.githubusercontent.com/leandroparisi/leandroparisi/main/assets/JavaScript-icon.png" alt="JavaScript" width="70px"/>
+    <img src="https://raw.githubusercontent.com/leandroparisi/leandroparisi/main/assets/Css-icon.png" alt="CSS" width="70px"/>
+    <img src="https://raw.githubusercontent.com/leandroparisi/leandroparisi/main/assets/Html-icon.png" alt="HTML" width="70px"/>
+    <img src="https://raw.githubusercontent.com/leandroparisi/leandroparisi/main/assets/Jest-icon.png" alt="Jest" width="70px"/>
   </div>
-  <img style="margin: 15px" src="https://raw.githubusercontent.com/leandroparisi/leandroparisi/main/assets/Jest-icon.png" alt="Jest" width="70px"/>
-  <img style="margin: 15px" src="https://raw.githubusercontent.com/leandroparisi/leandroparisi/main/assets/React-icon.png" alt="React" width="70px"/>
-  <img style="margin: 15px" src="https://raw.githubusercontent.com/leandroparisi/leandroparisi/main/assets/Redux-icon.png" alt="React" width="70px"/>
-  <img style="margin: 15px" src="https://raw.githubusercontent.com/leandroparisi/leandroparisi/main/assets/Sass-icon.png" alt="React" width="70px"/>
-  <img style="margin: 15px" src="https://raw.githubusercontent.com/leandroparisi/leandroparisi/main/assets/reactTestingLibrary-logo.png" alt="React" width="70px"/>
-  <img style="margin: 15px" src="https://raw.githubusercontent.com/leandroparisi/leandroparisi/main/assets/mongoDB.png" alt="React" width="70px"/>
-  <img style="margin: 15px" src="https://raw.githubusercontent.com/leandroparisi/leandroparisi/main/assets/mySQL.png" alt="React" width="70px"/>
-  <img style="margin: 15px" src="https://raw.githubusercontent.com/leandroparisi/leandroparisi/main/assets/nodejs_logo.png" alt="React" width="70px"/>
-  <img style="margin: 15px" src="https://raw.githubusercontent.com/leandroparisi/leandroparisi/main/assets/sequelize.svg" alt="React" width="70px"/>
+  <div align="center">
+    <img src="https://raw.githubusercontent.com/leandroparisi/leandroparisi/main/assets/React-icon.png" alt="React" width="70px"/>
+    <img src="https://raw.githubusercontent.com/leandroparisi/leandroparisi/main/assets/Redux-icon.png" alt="React" width="70px"/>
+    <img src="https://raw.githubusercontent.com/leandroparisi/leandroparisi/main/assets/Sass-icon.png" alt="React" width="70px"/>
+    <img src="https://raw.githubusercontent.com/leandroparisi/leandroparisi/main/assets/reactTestingLibrary-logo.png" alt="React" width="70px"/>
+  </div>
+  <div align="center">
+    <img src="https://raw.githubusercontent.com/leandroparisi/leandroparisi/main/assets/mongoDB.png" alt="React" width="70px"/>
+    <img src="https://raw.githubusercontent.com/leandroparisi/leandroparisi/main/assets/mySQL.png" alt="React" width="70px"/>
+    <img src="https://raw.githubusercontent.com/leandroparisi/leandroparisi/main/assets/nodejs_logo.png" alt="React" width="70px"/>
+    <img src="https://raw.githubusercontent.com/leandroparisi/leandroparisi/main/assets/sequelize.svg" alt="React" width="70px"/>
+  </div>
 </div>
 
 <hr />
