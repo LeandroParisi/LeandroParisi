@@ -38,7 +38,11 @@ Others:
 <hr />
 
 <h3 align="center">Languages and tools</h3>
+
+<hr />
+
 <div style="margin: auto">
+  <h4 align="center">Front End</h4>
   <div align="center">
     <img src="https://raw.githubusercontent.com/leandroparisi/leandroparisi/main/assets/JavaScript-icon.png" alt="JavaScript" width="70px"/>
     <img src="https://raw.githubusercontent.com/leandroparisi/leandroparisi/main/assets/Css-icon.png" alt="CSS" width="70px"/>
@@ -51,6 +55,8 @@ Others:
     <img src="https://raw.githubusercontent.com/leandroparisi/leandroparisi/main/assets/Sass-icon.png" alt="React" width="70px"/>
     <img src="https://raw.githubusercontent.com/leandroparisi/leandroparisi/main/assets/reactTestingLibrary-logo.png" alt="React" width="70px"/>
   </div>
+  <hr />
+  <h4 align="center">Back End:</h4>
   <div align="center">
     <img src="https://raw.githubusercontent.com/leandroparisi/leandroparisi/main/assets/mongoDB.png" alt="React" width="70px"/>
     <img src="https://raw.githubusercontent.com/leandroparisi/leandroparisi/main/assets/mySQL.png" alt="React" width="70px"/>
