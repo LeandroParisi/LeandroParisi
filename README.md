@@ -32,9 +32,11 @@ Pokedex (React: Router, CRUD / CSS / API request):
 - [x] _[Production](https://leandroparisi.github.io/pokedex/)_ 
 - [x] _[Repository](https://github.com/LeandroParisi/pokedex)_ 
 
+Resale:
+- [x] _[Resale - Outlet Imobiliário](https://resale.com.br/)_ (React / SASS) *Made on my current job, so I can't share the code due to private policies
+
 Others:
 - [x] _[Trivia Game](https://github.com/LeandroParisi/A1.trivia-game)_ (React / Redux / SASS / RTL)
-- [x] _[Resale - Outlet Imobiliário](https://resale.com.br/)_ (React / SASS) *Made on my current job, so I can't share the code due to private policies
 
 <hr />
 
