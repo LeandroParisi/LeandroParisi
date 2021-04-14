@@ -24,12 +24,12 @@
 <h3 align="center">Portfolio</h3>
 
 Marvelous App (React, SASS, Node, Sequelize):
-- [x] _[Link to production](https://marvelousapp-front.herokuapp.com/)_ 
+- [x] _[See it live!](https://marvelousapp-front.herokuapp.com/)_ 
 - [x] _[Front end repository](https://github.com/LeandroParisi/case-stone-front)_
 - [x] _[Back end repository](https://github.com/LeandroParisi/caseStone_MarvelousApp_Back)_ 
 
 Pokedex (React: Router, CRUD / CSS / API request):
-- [x] _[Production](https://leandroparisi.github.io/pokedex/)_ 
+- [x] _[See it live!](https://leandroparisi.github.io/pokedex/)_ 
 - [x] _[Repository](https://github.com/LeandroParisi/pokedex)_ 
 
 Resale:
