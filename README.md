@@ -50,6 +50,7 @@ Others:
   <img src="https://raw.githubusercontent.com/leandroparisi/leandroparisi/main/assets/mongoDB.png" alt="React" width="70px"/>
   <img src="https://raw.githubusercontent.com/leandroparisi/leandroparisi/main/assets/mySQL.png" alt="React" width="70px"/>
   <img src="https://raw.githubusercontent.com/leandroparisi/leandroparisi/main/assets/nodejs_logo.png" alt="React" width="70px"/>
+  <img src="https://raw.githubusercontent.com/leandroparisi/leandroparisi/main/assets/sequelize.svg" alt="React" width="70px"/>
 </div>
 
 <hr />
