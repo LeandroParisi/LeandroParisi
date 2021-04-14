@@ -23,17 +23,14 @@
 
 <h3 align="center">Portfolio</h3>
 
-Marvelous App (React, SASS, Node, Sequelize):
-- [x] _[See it live!](https://marvelousapp-front.herokuapp.com/)_ 
+ _[Marvelous App](https://marvelousapp-front.herokuapp.com/)_  (React, SASS, Node, Sequelize):
 - [x] _[Front end repository](https://github.com/LeandroParisi/case-stone-front)_
 - [x] _[Back end repository](https://github.com/LeandroParisi/caseStone_MarvelousApp_Back)_ 
 
-Pokedex (React: Router, CRUD / CSS / API request):
-- [x] _[See it live!](https://leandroparisi.github.io/pokedex/)_ 
+_[Pokedex](https://leandroparisi.github.io/pokedex/)_  (React: Router, CRUD / CSS / API request):
 - [x] _[Repository](https://github.com/LeandroParisi/pokedex)_ 
 
-Resale:
-- [x] _[Resale - Outlet Imobiliário](https://resale.com.br/)_ (React / SASS) *Made on my current job, so I can't share the code due to private policies
+_[Resale - Outlet Imobiliário](https://resale.com.br/)_ (React / SASS) *Made on my current job, so I can't share the code due to private policies
 
 Others:
 - [x] _[Trivia Game](https://github.com/LeandroParisi/A1.trivia-game)_ (React / Redux / SASS / RTL)
