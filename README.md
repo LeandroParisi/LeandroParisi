@@ -114,7 +114,7 @@ Others:
     2020.12 - Trybe Module 2 - Front end
   </a>
   <br />
-  <a href="https://raw.githubusercontent.com/leandroparisi/leandroparisi/main/archives/Certificates/2021.05.21-Trybe_Certificado_Módulo_3" target="_blank">
+  <a href="https://raw.githubusercontent.com/leandroparisi/leandroparisi/main/archives/Certificates/2021.05.21-Trybe_Certificado_Módulo_3.pdf" target="_blank">
     2021.05 - Trybe Module 3 - Back end
   </a>
 </p>
