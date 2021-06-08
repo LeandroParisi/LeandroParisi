@@ -73,8 +73,6 @@ Others:
 - [x] _[Meme Generator](https://leandroparisi.github.io/B3.meme-generator/)_ (HTML / CSS / JS)
 - [x] _[Pixel Art](https://leandroparisi.github.io/B4.pixel-art/)_ (HTML / CSS / JS)
 - [x] _[Task List](https://leandroparisi.github.io/B5.todo-list/)_ (HTML / CSS / JS)
-- [ ] _[Guess the Color]()_ (HTML / CSS / JS)
-- [ ] _[Misterious Card]()_ (HTML / CSS / JS)
 <hr />
 
 <h4>Front-end Development</h4>
@@ -105,7 +103,7 @@ Others:
 <h3 align="center">Certificates</h4>
 <p align="center">
   <a href="https://raw.githubusercontent.com/leandroparisi/leandroparisi/main/archives/Certificates/2020.08.01-Trybe_Certificado_Módulo_1.pdf" target="_blank">
-    2020.08 - Trybe Module 1
+    2020.08 - Trybe Module 1 - Intro to web development
   </a>
   <br />
   <a href="https://raw.githubusercontent.com/leandroparisi/leandroparisi/main/archives/Certificates/2020.10.21-Hackaton_Getnet.pdf" target="_blank">
@@ -113,7 +111,11 @@ Others:
   </a>
   <br />
   <a href="https://raw.githubusercontent.com/leandroparisi/leandroparisi/main/archives/Certificates/2020.12.01-Trybe_Certificado_Módulo_2.pdf" target="_blank">
-    2020.12 - Trybe Module 2
+    2020.12 - Trybe Module 2 - Front end
+  </a>
+  <br />
+  <a href="https://raw.githubusercontent.com/leandroparisi/leandroparisi/main/archives/Certificates/2021.05.21-Trybe_Certificado_Módulo_3" target="_blank">
+    2021.05 - Trybe Module 3 - Back end
   </a>
 </p>
 <hr />
