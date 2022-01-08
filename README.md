@@ -23,42 +23,38 @@
 
 <h3 align="center">Portfolio</h3>
 
-<b>TaOn - Sales automation for small businesses</b> (REACT / TypeScript / NodeJs / Sequelize / SASS) *In Development! May have some bugs, and some funcionalities are not finished
+<b>TaOn - Sales automation for small businesses</b> (REACT / TypeScript / NodeJs / Sequelize / SASS) 
+<br>
+*In Development! May have some bugs, and some funcionalities are not finished
 - [x] _[Front end repository](https://github.com/LeandroParisi/frontend_whatsappbot)_
 - [x] _[Back end repository](https://github.com/LeandroParisi/backEnd_whatsappBot)_
 - [x] _[WhatsappBot](https://github.com/LeandroParisi/bot.ext_taon)_
 
-<br/>
 _____
-<br/>
 
-_[Resale - Housing Outlet](https://resale.com.br/)_ (React / SASS) *Made on my previous job, I can't share the code due to privacy policies
+_[Resale - Housing Outlet](https://resale.com.br/)_ (React / SASS) 
+<br>
+* Made on my previous job, I can't share the code due to privacy policies
 
 
-<br/>
 _____
-<br/>
 
-_[U4Crypto - WhiteLabel online banck](https://u4crypto.com/)_ (TypeScript, NodeJS, React, Bootstrap) *Made on my previous job, I can't share the code due to privacy policies
+_[U4Crypto - WhiteLabel online banck](https://u4crypto.com/)_ (TypeScript, NodeJS, React, Bootstrap) 
+<br>
+* Made on my previous job, I can't share the code due to privacy policies
 
-<br/>
 _____
-<br/>
 
  <b>Marvelous App</b> (React, SASS, Node, Sequelize):
 - [x] _[Front end repository](https://github.com/LeandroParisi/case-stone-front)_
 - [x] _[Back end repository](https://github.com/LeandroParisi/caseStone_MarvelousApp_Back)_ 
 
-<br/>
 _____
-<br/>
 
 _[Pokedex](https://leandroparisi.github.io/pokedex/)_  (React: Router, CRUD / CSS / API request):
 - [x] _[Repository](https://github.com/LeandroParisi/pokedex)_ 
 
-<br/>
 _____
-<br/>
 
 Others:
 - [x] _[Trivia Game](https://github.com/LeandroParisi/A1.trivia-game)_ (React / Redux / SASS / RTL)
