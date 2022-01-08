@@ -1,5 +1,5 @@
 <h2 align="center">Leandro parisi</h2>
-<h3 align="center">Junior Front-end web developer</h3>
+<h3 align="center">Full Stack Developer</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/leandro-parisi/" target="_blank" >
     <img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="35px">
@@ -23,6 +23,16 @@
 
 <h3 align="center">Portfolio</h3>
 
+_[TaOn - Sales automation for small businesses](https://resale.com.br/)_ (REACT / TypeScript / NodeJs / Sequelize / SASS) *In Development! May have some bugs, and some funcionalities are not finished
+- [x] _[Front end repository](https://github.com/LeandroParisi/frontend_whatsappbot)_
+- [x] _[Back end repository](https://github.com/LeandroParisi/backEnd_whatsappBot)_
+- [x] _[WhatsappBot](https://github.com/LeandroParisi/bot.ext_taon)_
+
+
+_[Resale - Outlet Imobiliário](https://resale.com.br/)_ (React / SASS) *Made on my previous job, I can't share the code due to privacy policies
+
+_[U4Crypto - WhiteLabel online banck](https://u4crypto.com/)_ (TypeScript, NodeJS, React, Bootstrap) *Made on my previous job, I can't share the code due to privacy policies
+
  _[Marvelous App](https://marvelousapp-front.herokuapp.com/)_  (React, SASS, Node, Sequelize):
 - [x] _[Front end repository](https://github.com/LeandroParisi/case-stone-front)_
 - [x] _[Back end repository](https://github.com/LeandroParisi/caseStone_MarvelousApp_Back)_ 
@@ -30,7 +40,8 @@
 _[Pokedex](https://leandroparisi.github.io/pokedex/)_  (React: Router, CRUD / CSS / API request):
 - [x] _[Repository](https://github.com/LeandroParisi/pokedex)_ 
 
-_[Resale - Outlet Imobiliário](https://resale.com.br/)_ (React / SASS) *Made on my current job, so I can't share the code due to privacy policies
+
+
 
 Others:
 - [x] _[Trivia Game](https://github.com/LeandroParisi/A1.trivia-game)_ (React / Redux / SASS / RTL)
@@ -50,14 +61,18 @@ Others:
   </div>
   <div align="center">
     <img src="https://raw.githubusercontent.com/leandroparisi/leandroparisi/main/assets/React-icon.png" alt="React" width="70px"/>
+    <img src="https://raw.githubusercontent.com/leandroparisi/leandroparisi/main/assets/ts-icon.png" alt="TypeScript" width="70px"/>
     <img src="https://raw.githubusercontent.com/leandroparisi/leandroparisi/main/assets/Redux-icon.png" alt="Redux" width="70px"/>
     <img src="https://raw.githubusercontent.com/leandroparisi/leandroparisi/main/assets/Sass-icon.png" alt="Sass" width="70px"/>
     <img src="https://raw.githubusercontent.com/leandroparisi/leandroparisi/main/assets/reactTestingLibrary-logo.png" alt="reactTestingLibrary" width="70px"/>
   </div>
   <h4 align="center">Back End:</h4>
   <div align="center">
+    <img src="https://raw.githubusercontent.com/leandroparisi/leandroparisi/main/assets/c-sharp.png" alt="CSharp" width="70px"/>
+    <img src="https://raw.githubusercontent.com/leandroparisi/leandroparisi/main/assets/ts-icon.png" alt="TypeScript" width="70px"/>
     <img src="https://raw.githubusercontent.com/leandroparisi/leandroparisi/main/assets/mongoDB.png" alt="mongoDB" width="70px"/>
     <img src="https://raw.githubusercontent.com/leandroparisi/leandroparisi/main/assets/mySQL.png" alt="mySQL" width="70px"/>
+    <img src="https://raw.githubusercontent.com/leandroparisi/leandroparisi/main/assets/postgres-icon.png" alt="Postgress" width="70px"/>
     <img src="https://raw.githubusercontent.com/leandroparisi/leandroparisi/main/assets/nodejs_logo.png" alt="nodejs_logo" width="70px"/>
     <img src="https://raw.githubusercontent.com/leandroparisi/leandroparisi/main/assets/sequelize.svg" alt="sequelize" width="70px"/>
   </div>
