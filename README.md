@@ -39,7 +39,7 @@ _[Resale - Housing Outlet](https://resale.com.br/)_ (React / SASS)
 
 _____
 
-_[U4Crypto - WhiteLabel online banck](https://u4crypto.com/)_ (TypeScript, NodeJS, React, Bootstrap) 
+_[U4Crypto - WhiteLabel online bank](https://u4crypto.com/)_ (TypeScript, NodeJS, React, Bootstrap) 
 <br>
 * Made on my previous job, I can't share the code due to privacy policies
 
