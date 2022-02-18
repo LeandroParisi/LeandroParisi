@@ -26,6 +26,7 @@
 <b>TaOn - Sales automation for small businesses</b> (REACT / TypeScript / NodeJs / Sequelize / SASS) 
 <br>
 *In Development! May have some bugs, and some funcionalities are not finished
+<br>
 *Since this project is meant to be turned into a company its code is private, so, if you want access to it please send me a message on: lepcbelisario@gmail
 - [x] _[Front end repository](https://github.com/LeandroParisi/frontend_whatsappbot)_
 - [x] _[Back end repository](https://github.com/LeandroParisi/backEnd_whatsappBot)_
