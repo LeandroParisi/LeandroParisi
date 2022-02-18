@@ -27,7 +27,7 @@
 <br>
 *In Development! May have some bugs, and some funcionalities are not finished
 <br>
-*Since this project is meant to be turned into a company its code is private, so, if you want access to it please send me a message on: lepcbelisario@gmail
+*Since this project is meant to be turned into a company its code is private, so, if you want access to it please send me a message on: lepcbelisario@gmail.com
 - [x] _[Front end repository](https://github.com/LeandroParisi/frontend_whatsappbot)_
 - [x] _[Back end repository](https://github.com/LeandroParisi/backEnd_whatsappBot)_
 - [x] _[WhatsappBot](https://github.com/LeandroParisi/bot.ext_taon)_
