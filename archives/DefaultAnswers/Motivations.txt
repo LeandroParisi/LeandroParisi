@@ -1,0 +1,23 @@
+Compartilhe uma atividade em que você precisou aprender algo para superar um desafio. O que você fez? Quais foram os resultados? O que faria de diferente? (mínimo de 250 caracteres) *
+
+Recentemente iniciei um projeto de programação com 2 amigos, sendo eu o mais experiente tive que assumir o papel de liderança nas decisões técnicas, mesmo não tendo nenhuma experiência nesta posição. Assim tive que: não só aprender questões técnicas para tomar a decisão mais acertada possível, mas também auxiliar os 2 colegas nas demandas. Pesquisei bastante sobre quais seriam as melhores estratégias para resolver os problemas que apareciam, e busquei tutoria de amigos programadores que tem mais experiência que eu. Mas também corri alguns riscos, pois, no intuito de lançar um MVP com certa velocidade houveram algumas decisões técnicas que não dediquei o tempo suficiente, isso acabou gerando alguns problemas posteriores, que apesar de não terem comprometido o projeto como um todo, são débitos que temos. Sendo assim diria que tomaria mais cuidado em decisões como estas e dividiria a demanda de decisões importantes com outro desenvolvedor, instruindo-o no se necessário.
+
+
+___
+
+
+Relate uma experiência em que você precisou tomar uma decisão arriscada. Como foi? Qual foi o resultado que você obteve? (mínimo de 250 caracteres) *
+
+Em minha carreira anterior houve um momento que eu precisei tomar a decisão de parar de trabalhar em um trabalho fixo que eu tinha e focar somente em alguns freelancers para poder focar mais tempo em um projeto que havia iniciado, o qual tinha muito potencial e no qual eu acreditava. Foi uma decisão acertada, meu projeto não só me rendeu um faturamento anual maior do que o que tinha com o trabalho, mas também me trouxe relevância na carreira, tendo sido assunto de diversas matérias e programas de televisão, como por exemplo: Encontro com a Fátima Bernardes (https://www.youtube.com/watch?v=mWh6fUg2S6E&list=PLtf1L0SiShvw4fNfFI3Z5x4Mdrwwg4tBH). Isso sem falar que foi uma experiência única que levarei para o resto da vida.
+
+___
+
+Descreva uma situação em que você vivenciou algo que não saiu conforme o esperado. Como você reagiu? Qual foi a resolução? (mínimo de 250 caracteres) *
+
+A dois anos, com o início da pandemia, eu estava ainda finalizando meu curso de programação e trabalhando ao mesmo tempo (remotamente). Mas, um tanto quanto ansioso para iniciar um projeto pessoal que a muito queria realizar acabei tomando a decisão de me mudar para uma cidade menor, mas esta não me proporcionava estruturas suficientes para conseguir levar a rotina pesada que tinha na época com tranquilidade, assim acabei me desgastando bastante e, o que era pra ser um passo em busca de um objetivo pessoal de morar em uma cidade menor acabou gerando mais dor de cabeça e cansaço do que eu esperava ao entrar nessa vida "bucólica". Sendo assim, depois de uns 3 meses tentando que essa situação desse certo me convenci que havia tomado a decisão no momento errado. Retornei então para a cidade grande que morava anteriormente, mas decidido a finalizar meu curso e então me mudar novamente para a cidade de interior. E foi o que fiz, hoje em dia moro nesta cidade.
+
+___
+
+Qual é o objetivo que você busca alcançar ao cursar a graduação da Faculdade XP Educação? Por que você escolheu essa carreira? (mínimo de 250 caracteres) *
+
+Primeiramente busco me aprofundar na área, já estou atuando como programador a 2 anos, e acredito que, em uma faculdade terei a possibilidade de aprofundar em assuntos que nem sempre consigo explorar no dia a dia de trabalho, também tenho como um dos meus objetivos de vida passar uma temporada fora do Brasil e, para isso, um diploma na área é bem importante. Por fim os motivos para ter escolhido esta carreira são: 1. Sempre tive uma cabeça bem analítica e tenho enorme prazer em resolver problemas lógicos que aparecem no dia a dia; 2. Esta carreira me possibilita trabalhar de forma remota, o que julgo muito importante para ter o estilo de vida que desejo; 3. É uma área aonde não existem limites para o que se pode aprender, isso me mantem motivado, sabendo que a probabilidade de me estagnar na carreira é bem baixo.
