@@ -13,18 +13,16 @@
   I believe technology and mainly programming are great tools to create a better world not just for me but also for the next generations!! :rocket:
 </p>
 <br />
-<ul>
-<li align="center">
+<p align="center">
   <a href="https://raw.githubusercontent.com/leandroparisi/leandroparisi/main/archives/[LeandroParisi]_CV.pdf" target="_blank">
     Curriculum - PDF
   </a>
-</li>
-<li align="center">
+</p>
+<p align="center">
   <a href="https://raw.githubusercontent.com/leandroparisi/leandroparisi/main/archives/[LeandroParisi]_CoverLetter.pdf" target="_blank">
     Cover Letter
   </a>
-</li>
-</ul>
+</p>
 
 <hr />
 
