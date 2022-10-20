@@ -28,15 +28,22 @@
 
 <h3 align="center">Portfolio</h3>
 
-<b>TaOn - Sales automation for small businesses</b> (REACT / TypeScript / NodeJs / Sequelize / SASS) 
+<b>Xtage - Crypto exchange</b> (REACT / TypeScript / NodeJs / C# / Kafka / Azure pipelines / Docker) 
+<br>
+* Made on my previous job, I can't share the code due to privacy policies
+* But, if you want to know a bit more about the company and the project I will leave some links here:
+
+[Xtage](https://www.linkedin.com/safety/go?url=https%3A%2F%2Fcrypto.news%2Fbrazils-xp-investimentos-launches-xtage-crypto-trading-platform%2F&trk=flagship-messaging-web&messageThreadUrn=urn%3Ali%3AmessagingThread%3A2-MjhhNmRiMTYtNDcxMy00YzUyLWE2YzgtZDE3NTI4NGE2YzIzXzAxMw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BI1T9AVFMR4OhSqjDeQeb%2BQ%3D%3D)
+[XPInc](https://www.linkedin.com/safety/go?url=https%3A%2F%2Finvestors.xpinc.com%2Fen%2Fnews-events%2Fpress-releases%2F&trk=flagship-messaging-web&messageThreadUrn=urn%3Ali%3AmessagingThread%3A2-MjhhNmRiMTYtNDcxMy00YzUyLWE2YzgtZDE3NTI4NGE2YzIzXzAxMw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BI1T9AVFMR4OhSqjDeQeb%2BQ%3D%3D)
+_____
+
+<b>Whatzup - Sales automation for small businesses</b> (REACT / TypeScript / NodeJs / Sequelize / SASS) 
 <br>
 *In Development! May have some bugs, and some funcionalities are not finished
 <br>
-*Since this project is meant to be turned into a company its code is private, so, if you want access to it please send me a message on: <a href="lepcbelisario@gmail.com" target="_blank" >lepcbelisario@gmail.com</a>
-- [x] _[Front end repository](https://github.com/LeandroParisi/frontend_whatsappbot)_
-- [x] _[Back end repository](https://github.com/LeandroParisi/backEnd_whatsappBot)_
-- [x] _[WhatsappBot](https://github.com/LeandroParisi/bot.ext_taon)_
+* Since this project is a company I am building I can't share code, but, I have made a repository showing some code highlights and overall architecture:
 
+[Whatzup Repository](https://github.com/LeandroParisi/PrivatePortfolio-WhatsappBot)
 _____
 
 _[Resale - Housing Outlet](https://resale.com.br/)_ (React / SASS) 
