@@ -34,6 +34,7 @@
 * But, if you want to know a bit more about the company and the project I will leave some links here:
 
 [Xtage](https://www.linkedin.com/safety/go?url=https%3A%2F%2Fcrypto.news%2Fbrazils-xp-investimentos-launches-xtage-crypto-trading-platform%2F&trk=flagship-messaging-web&messageThreadUrn=urn%3Ali%3AmessagingThread%3A2-MjhhNmRiMTYtNDcxMy00YzUyLWE2YzgtZDE3NTI4NGE2YzIzXzAxMw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BI1T9AVFMR4OhSqjDeQeb%2BQ%3D%3D)
+<br />
 [XPInc](https://www.linkedin.com/safety/go?url=https%3A%2F%2Finvestors.xpinc.com%2Fen%2Fnews-events%2Fpress-releases%2F&trk=flagship-messaging-web&messageThreadUrn=urn%3Ali%3AmessagingThread%3A2-MjhhNmRiMTYtNDcxMy00YzUyLWE2YzgtZDE3NTI4NGE2YzIzXzAxMw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BI1T9AVFMR4OhSqjDeQeb%2BQ%3D%3D)
 _____
 
