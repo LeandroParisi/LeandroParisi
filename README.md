@@ -34,11 +34,13 @@
 * But, if you want to know a bit more about the company and the project I will leave some links here:
   
 [Metrobi](https://metrobi.com/)
+_____
 
 <b>Xtage - Crypto exchange</b> (React / TypeScript / NodeJs / C# / Kafka / Azure pipelines / Docker) 
 <br>
 * Made on my previous job, I can't share the code due to privacy policies
 * But, if you want to know a bit more about the company and the project I will leave some links here:
+
 
 [Xtage](https://decrypt.co/107522/brazilian-brokerage-xp-launches-bitcoin-ethereum-trading)
 <br />
