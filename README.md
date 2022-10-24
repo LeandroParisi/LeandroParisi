@@ -32,6 +32,7 @@
 <br>
 * Made on my previous job, I can't share the code due to privacy policies
 * But, if you want to know a bit more about the company and the project I will leave some links here:
+  
 [Metrobi](https://metrobi.com/)
 
 <b>Xtage - Crypto exchange</b> (React / TypeScript / NodeJs / C# / Kafka / Azure pipelines / Docker) 
