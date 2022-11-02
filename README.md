@@ -28,33 +28,18 @@
 
 <h3 align="center">Portfolio</h3>
 
-<b>Metrobi</b> (React / TypeScript / NodeJs / C# / Python) 
-<br>
-* Made on my previous job, I can't share the code due to privacy policies
-* But, if you want to know a bit more about the company and the project I will leave some links here:
-  
-[Metrobi](https://metrobi.com/)
-_____
+<h4 align="center">
+<a href="https://github.com/LeandroParisi/PrivatePortfolio" target="_blank">
+    PrivatePortfolio
+  </a>
+</h4>
 
-<b>Xtage - Crypto exchange</b> (React / TypeScript / NodeJs / C# / Kafka / Azure pipelines / Docker) 
-<br>
-* Made on my previous job, I can't share the code due to privacy policies
-* But, if you want to know a bit more about the company and the project I will leave some links here:
+<p>Presentation of some projects that I did on some companies that I worked on which I can't share the code base due to Privacy Policies.</p>
 
-[SystemOverview](https://github.com/LeandroParisi/PrivatePortfolio-Xtage)
-<br />
-[Xtage](https://decrypt.co/107522/brazilian-brokerage-xp-launches-bitcoin-ethereum-trading)
-<br />
-[XPInc](https://investors.xpinc.com/en/)
-_____
-
-<b>Whatzup - Sales automation for small businesses</b> (REACT / TypeScript / NodeJs / Sequelize / SASS) 
-<br>
-*In Development! May have some bugs, and some funcionalities are not finished
-<br>
-* Since this project is a company I am building I can't share code, but, I have made a repository showing some code highlights and overall architecture:
-
-[Whatzup Repository](https://github.com/LeandroParisi/PrivatePortfolio-WhatsappBot)
+1. [Metrobi](https://metrobi.com/) (React / TypeScript / NodeJs / C# / Python) 
+2. [Xtage](https://decrypt.co/107522/brazilian-brokerage-xp-launches-bitcoin-ethereum-trading) (React / TypeScript / NodeJs / C# / Kafka / Azure pipelines / Docker) 
+3. Whatzup - Sales automation for small businesses
+   
 _____
 
 _[Resale - Housing Outlet](https://resale.com.br/)_ (React / SASS) 
