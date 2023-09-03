@@ -28,22 +28,22 @@
 <hr />
 <h3 align="center">Recommendation Letters</h3>
 <p align="center">
-  <a href="https://raw.githubusercontent.com/leandroparisi/leandroparisi/main/recommentation-letters/PhilipGutemberg.pdf" target="_blank">
+  <a href="https://raw.githubusercontent.com/leandroparisi/leandroparisi/main/archives/recommentation-letters/PhilipGutemberg.pdf" target="_blank">
     XP Inc. 1
   </a>
 </p>
 <p align="center">
-  <a href="https://raw.githubusercontent.com/leandroparisi/leandroparisi/main/recommentation-letters/Yan.pdf" target="_blank">
+  <a href="https://raw.githubusercontent.com/leandroparisi/leandroparisi/main/archives/recommentation-letters/Yan.pdf" target="_blank">
     XP Inc. 2
   </a>
 </p>
 <p align="center">
-  <a href="https://raw.githubusercontent.com/leandroparisi/leandroparisi/main/recommentation-letters/Andre_NataHouse.pdf" target="_blank">
+  <a href="https://raw.githubusercontent.com/leandroparisi/leandroparisi/main/archives/recommentation-letters/Andre_NataHouse.pdf" target="_blank">
     Nata House
   </a>
 </p>
 <p align="center">
-  <a href="https://raw.githubusercontent.com/leandroparisi/leandroparisi/main/recommentation-letters/ArthurVargas.pdf" target="_blank">
+  <a href="https://raw.githubusercontent.com/leandroparisi/leandroparisi/main/archives/recommentation-letters/ArthurVargas.pdf" target="_blank">
     Rethink
   </a>
 </p>
@@ -61,7 +61,7 @@
 
 1. [Metrobi](https://metrobi.com/) (React / TypeScript / NodeJs / C# / Python) 
 2. [Xtage](https://decrypt.co/107522/brazilian-brokerage-xp-launches-bitcoin-ethereum-trading) (React / TypeScript / NodeJs / C# / Kafka / Azure pipelines / Docker) 
-3. Whatzup - Sales automation for small businesses
+3. [Whatzup](https://www.whatzup.tech/) - Sales automation for small businesses
    
 _____
 
