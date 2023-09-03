@@ -18,12 +18,35 @@
     Curriculum - PDF
   </a>
 </p>
+
 <p align="center">
   <a href="https://raw.githubusercontent.com/leandroparisi/leandroparisi/main/archives/[LeandroParisi]_CoverLetter.pdf" target="_blank">
     Cover Letter
   </a>
 </p>
 
+<hr />
+<h3 align="center">Recommendation Letters</h3>
+<p align="center">
+  <a href="https://raw.githubusercontent.com/leandroparisi/leandroparisi/main/recommentation-letters/PhilipGutemberg.pdf" target="_blank">
+    XP Inc. 1
+  </a>
+</p>
+<p align="center">
+  <a href="https://raw.githubusercontent.com/leandroparisi/leandroparisi/main/recommentation-letters/Yan.pdf" target="_blank">
+    XP Inc. 2
+  </a>
+</p>
+<p align="center">
+  <a href="https://raw.githubusercontent.com/leandroparisi/leandroparisi/main/recommentation-letters/Andre_NataHouse.pdf" target="_blank">
+    Nata House
+  </a>
+</p>
+<p align="center">
+  <a href="https://raw.githubusercontent.com/leandroparisi/leandroparisi/main/recommentation-letters/ArthurVargas.pdf" target="_blank">
+    Rethink
+  </a>
+</p>
 <hr />
 
 <h3 align="center">Portfolio</h3>
